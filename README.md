@@ -1,6 +1,6 @@
 # US Stock_Search Program Node.js
 
-Video coming soon.
+Check out the [demo video](https://youtu.be/3Laq-ly5HWs).
 
 ### Launch the App
 
