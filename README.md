@@ -1,6 +1,6 @@
 # US Stock Search Program Node.js
 
-<img src="https://images.squarespace-cdn.com/content/v1/587b630aebbd1ab22efeeb6b/ce271208-6da2-4045-a3b7-9c3e37591147/Screenshot+2023-01-30+141739.png"/>
+<img src="Screenshot 2023-01-30 141739.png"/>
 
 Check out the [demo video](https://youtu.be/3Laq-ly5HWs).
 
