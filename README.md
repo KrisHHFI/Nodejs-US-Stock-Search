@@ -1,6 +1,6 @@
 # US Stock Search Program Node.js
 
-<img src="Screenshot 2023-01-30 141739.png"/>
+<img src="PromoPic.png"/>
 
 Check out the [demo video](https://youtu.be/3Laq-ly5HWs).
 
